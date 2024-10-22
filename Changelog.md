@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2024-10-22
+
+### Changed
+
+- Set minimum supported macOS version to 10.15 for compatibility with Xcode 16
+
 ## [0.4.1] - 2021-05-03
 
 ### Added
